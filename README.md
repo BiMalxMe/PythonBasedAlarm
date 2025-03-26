@@ -18,3 +18,4 @@ jasle **n number of seconds** ma alarm bajayera notify garxa. 🔔
 ---
 
 ✨ **Made for fun to keep memories!** 😊  
+![Capture](https://github.com/user-attachments/assets/4e75dc7a-b0b3-4264-a6d6-d0e4213cbedc)
